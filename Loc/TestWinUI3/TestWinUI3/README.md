@@ -1,8 +1,6 @@
-# WinUI integration with MFC
+# WinUI Localization Sample
 
-## This sample, AppWinUIMFC, integrate WinUI 3 with MFC.
-
-It is a simple WinUI 3 application that call MFC Dialog.
+## This sample, TestWinUI3, Localize the UI of a WinUI 3
 
 
 [![Windows Build/Release](https://github.com/dev-advocacy/WebView2/actions/workflows/windowsbuild.yml/badge.svg)](https://github.com/dev-advocacy/WebView2/actions/workflows/windowsbuild.yml)
@@ -13,7 +11,7 @@ This sample is built as a Unpackaged app (WinUI in Desktop)
 It uses C++ in the native environment 
 
 - Sample name: TestWinUI3
-	- WinUI Project name in Solution Explorer: AppWinUIMFC
+	- WinUI Project name in Solution Explorer: TestWinUI3
 
 ## Prerequisites
 - Windows 10, version 1809 (10.0; Build 17763), or later
